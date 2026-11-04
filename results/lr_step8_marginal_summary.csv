@@ -1,0 +1,8 @@
+,test,cv_oof_train_pooled
+n,204.0,4755.0
+n_marginal,63.0,1362.0
+share_marginal,0.3088,0.2864
+acc_marginal,0.5079,0.5396
+acc_confident,0.6809,0.6602
+share_marginal_true_medium,0.4762,0.4846
+share_marginal_pred_medium,0.5873,0.5294

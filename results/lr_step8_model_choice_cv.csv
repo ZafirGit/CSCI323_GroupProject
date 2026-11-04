@@ -1,0 +1,5 @@
+,accuracy_mean,accuracy_std,balanced_accuracy_mean,balanced_accuracy_std,macro_f1_mean,macro_f1_std,qwk_mean,qwk_std,log_loss_mean,log_loss_std,n_params
+LR ordinal logit,0.6257,0.0368,0.5506,0.0465,0.5653,0.0492,0.5426,0.056,0.7919,0.0421,13.0
+LR multinomial L2 (C=1),0.6166,0.0289,0.5402,0.0396,0.5508,0.0412,0.5297,0.0474,0.8001,0.0419,36.0
+LR poly-2 L2 (C=1),0.6215,0.0275,0.5584,0.0336,0.5692,0.0351,0.531,0.0504,0.8248,0.073,234.0
+Majority class,0.4711,0.0024,0.3333,0.0,0.2135,0.0007,0.0,0.0,0.9926,0.0025,

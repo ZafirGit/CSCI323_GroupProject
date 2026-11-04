@@ -1,0 +1,12 @@
+,mean_marginal_raw,mean_confident_raw,diff_in_train_SD
+total sulfur dioxide,30.3651,53.617,-0.6789
+volatile acidity,0.4746,0.5741,-0.5467
+free sulfur dioxide,12.9524,18.3156,-0.5231
+alcohol,10.7397,10.2021,0.4914
+pH,3.2822,3.3299,-0.3027
+fixed acidity,8.4651,7.9908,0.263
+sulphates,0.6902,0.6467,0.2515
+citric acid,0.28,0.2374,0.2139
+density,0.9964,0.9967,-0.1541
+residual sugar,2.6675,2.4954,0.1282
+chlorides,0.0916,0.0856,0.119

@@ -1,0 +1,9 @@
+,mean,std
+accuracy,0.4711,0.0024
+balanced_accuracy,0.3333,0.0
+macro_f1,0.2135,0.0007
+qwk,0.0,0.0
+log_loss,0.9926,0.0025
+recall_Low,1.0,0.0
+recall_Medium,0.0,0.0
+recall_High,0.0,0.0

@@ -1,0 +1,8 @@
+,test
+share_misclassified_z<=0,0.1176
+share_inside_margin_0<z<1,0.1078
+share_misclassified_true_High,0.7407
+share_misclassified_true_rest,0.0226
+mean_zero_one,0.1176
+mean_hinge,0.3073
+mean_logistic_nats,0.2754

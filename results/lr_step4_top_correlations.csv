@@ -1,0 +1,6 @@
+feature_a,feature_b,r
+fixed acidity,pH,-0.6974
+fixed acidity,density,0.6797
+fixed acidity,citric acid,0.6722
+free sulfur dioxide,total sulfur dioxide,0.6622
+citric acid,pH,-0.5684

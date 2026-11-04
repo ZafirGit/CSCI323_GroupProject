@@ -1,0 +1,4 @@
+run,updates,epochs,seconds,final_objective_per_wine,max_abs_prob_diff_vs_sklearn_val,mean_abs_prob_diff_vs_sklearn_val,rel_grad_check_error
+numpy full-batch GD,3000,3000.0,3.7601,0.769548,1e-06,0.0,0.0
+numpy mini-batch SGD (B=64),1500,100.0,0.887679,0.769779,0.033222,0.00388,0.0
+sklearn lbfgs (C=10),52,,,0.769548,0.0,0.0,0.0

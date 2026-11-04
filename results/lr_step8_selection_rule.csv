@@ -1,0 +1,4 @@
+model,n_params,cv_macro_f1_mean,best_minus_this,se_of_diff,within_one_se,best_wins_folds
+LR ordinal logit,13,0.5653,0.0039,0.0175,True,14.0
+LR multinomial L2 (C=1),36,0.5508,0.0183,0.0137,False,20.0
+LR poly-2 L2 (C=1),234,0.5692,0.0,0.0,True,

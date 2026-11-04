@@ -1,0 +1,7 @@
+quantity,value
+"corr(density, residual sugar), train",0.3242
+density High-Low weight,-0.3748
+residual sugar High-Low weight,0.0769
+residual sugar High-Low weight WITHOUT density,-0.0288
+CV macro-F1 change without density (mean),-0.0035
+CV macro-F1 change without density (SD),0.0124

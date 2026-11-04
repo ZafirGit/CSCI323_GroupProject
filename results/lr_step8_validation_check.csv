@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,macro_f1,qwk,log_loss
+LR ordinal logit,0.6176,0.5446,0.5618,0.573,0.7088
+LR multinomial L2 (C=1),0.6422,0.5789,0.597,0.6096,0.7007
+LR poly-2 L2 (C=1),0.6422,0.6119,0.6205,0.6149,0.6923
